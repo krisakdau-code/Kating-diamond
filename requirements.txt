@@ -1,6 +1,0 @@
-streamlit
-streamlit-lightweight-charts-ntf
-requests
-pandas
-numpy
-yfinance
